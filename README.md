@@ -1,5 +1,5 @@
-Create by N N N N
+Create by Michelle,Laura,Luis,Juan
   Use condition 
-    create db 'sistemas' ---> import:Creacion BD;
+    create db 'sistemas' ---> import in SQL: "Creacion-BD"
 
 # ParkingSystem
